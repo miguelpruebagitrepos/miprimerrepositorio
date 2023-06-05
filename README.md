@@ -1,2 +1,3 @@
 # miprimerrepositorio
-Prueba para la conexión on git en modo local.😎
+Prueba para la conexión git en modo local.😎
+##LISTO REPOS
